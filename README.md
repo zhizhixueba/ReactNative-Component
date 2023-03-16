@@ -11,19 +11,19 @@
 
 
 > Input -输入框
-- MemoInput -带字数多行文本输入(如：备注) [代码文档](./src/input/MemoInput.jsx)
+- MemoInput -带字数多行文本输入(如：备注) [代码文档](./src/input/MemoInput.js)
 
 
 > 通用 
 
-- ListView -列表，带刷新 [代码文档](./src/list/ListView.jsx)
+- ListView -列表，带刷新 [代码文档](./src/list/ListView.js)
 - Empty
-- Header -标题栏(带状态栏) [代码及文档](./src/header/Header.jsx)
+- Header -标题栏(带状态栏) [代码及文档](./src/header/Header.js)
 - Footer
 
 
 > Button -按钮
-- CompatButton -多功能按钮 [代码文档](./src/button/CompatButton.jsx)
+- CompatButton -多功能按钮 [代码文档](./src/button/CompatButton.js)
 
 
 > Capsule -胶囊按钮
@@ -43,7 +43,7 @@
 
 > Rate -星标
 
-> Charbar -字母索引栏 [代码文档](./src/charbar/CharBar.jsx)
+> Charbar -字母索引栏 [代码文档](./src/charbar/CharBar.js)
 
 
 > Steps -进步条
